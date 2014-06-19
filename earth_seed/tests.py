@@ -1,4 +1,4 @@
-Tests
+#Tests: Basic reporting app in Flask for an organization that simply displays its database information onto a browser page so that staff in different cities can view it.
 
 #If virtual environment is activated, then pass
 

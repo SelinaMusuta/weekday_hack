@@ -39,7 +39,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/selinamusuta/gitrepos/earth_seed/venv"
+VIRTUAL_ENV="/home/selinamusuta/gitrepos/weekday_hack/earth_seed/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

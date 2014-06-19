@@ -32,7 +32,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/selinamusuta/gitrepos/earth_seed/venv"
+set -gx VIRTUAL_ENV "/home/selinamusuta/gitrepos/weekday_hack/earth_seed/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

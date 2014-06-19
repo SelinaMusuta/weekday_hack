@@ -7,8 +7,8 @@ class Members(db.Model):
 	email = db.Column(db.String(50))
 	password = db.Column(db.String(12))
 
-	def get_id(self):
-		return unicode(self.id)
+	#def get_id(self):
+	#	return unicode(self.id)
 
 class Events(db.Model):
 	id = db.Column(db.Integer, primary_key = True)

@@ -6,7 +6,7 @@ from models import Members, Events
 
 @app.route('/', methods = ['GET', 'POST'])
 def index():
-	members = Members.query.all
+	members = Members.query.all()
 	return render_template('index.html', members = members)
 
 
